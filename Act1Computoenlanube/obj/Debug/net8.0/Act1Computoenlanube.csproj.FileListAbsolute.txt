@@ -1,0 +1,14 @@
+c:\Users\purpl\source\computoen-la-nube\Act1Computoenlanube\bin\Debug\net8.0\Act1Computoenlanube.exe
+c:\Users\purpl\source\computoen-la-nube\Act1Computoenlanube\bin\Debug\net8.0\Act1Computoenlanube.deps.json
+c:\Users\purpl\source\computoen-la-nube\Act1Computoenlanube\bin\Debug\net8.0\Act1Computoenlanube.runtimeconfig.json
+c:\Users\purpl\source\computoen-la-nube\Act1Computoenlanube\bin\Debug\net8.0\Act1Computoenlanube.dll
+c:\Users\purpl\source\computoen-la-nube\Act1Computoenlanube\bin\Debug\net8.0\Act1Computoenlanube.pdb
+c:\Users\purpl\source\computoen-la-nube\Act1Computoenlanube\obj\Debug\net8.0\Act1Computoenlanube.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\purpl\source\computoen-la-nube\Act1Computoenlanube\obj\Debug\net8.0\Act1Computoenlanube.AssemblyInfoInputs.cache
+c:\Users\purpl\source\computoen-la-nube\Act1Computoenlanube\obj\Debug\net8.0\Act1Computoenlanube.AssemblyInfo.cs
+c:\Users\purpl\source\computoen-la-nube\Act1Computoenlanube\obj\Debug\net8.0\Act1Computoenlanube.csproj.CoreCompileInputs.cache
+c:\Users\purpl\source\computoen-la-nube\Act1Computoenlanube\obj\Debug\net8.0\Act1Computoenlanube.dll
+c:\Users\purpl\source\computoen-la-nube\Act1Computoenlanube\obj\Debug\net8.0\refint\Act1Computoenlanube.dll
+c:\Users\purpl\source\computoen-la-nube\Act1Computoenlanube\obj\Debug\net8.0\Act1Computoenlanube.pdb
+c:\Users\purpl\source\computoen-la-nube\Act1Computoenlanube\obj\Debug\net8.0\Act1Computoenlanube.genruntimeconfig.cache
+c:\Users\purpl\source\computoen-la-nube\Act1Computoenlanube\obj\Debug\net8.0\ref\Act1Computoenlanube.dll
